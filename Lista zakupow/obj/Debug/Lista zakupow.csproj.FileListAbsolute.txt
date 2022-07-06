@@ -1,0 +1,21 @@
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.exe.config
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.exe
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.pdb
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csprojAssemblyReference.cache
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista_zakupow.Form1.resources
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista_zakupow.Properties.Resources.resources
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.GenerateResource.cache
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.CoreCompileInputs.cache
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.exe
+F:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.pdb
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.exe.config
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.exe
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\bin\Debug\Lista zakupow.pdb
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.AssemblyReference.cache
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista_zakupow.Form1.resources
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista_zakupow.Properties.Resources.resources
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.GenerateResource.cache
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.csproj.CoreCompileInputs.cache
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.exe
+D:\Programowanie\Programowanie w C#\Lista zakupow\Lista zakupow\obj\Debug\Lista zakupow.pdb
